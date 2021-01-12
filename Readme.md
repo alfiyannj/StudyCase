@@ -1,4 +1,7 @@
-﻿## Terserah Cafe & Resto
+Nama : Roaina Alfiyan N
+NIM : 19.11.2744
+
+## Terserah! Cafe & Resto
 Aplikasi ini digunakan untuk membeli sebuah makanan dengan menerapkan MVC.
 
 ### SCOPE & FUNCTIONALITIES
